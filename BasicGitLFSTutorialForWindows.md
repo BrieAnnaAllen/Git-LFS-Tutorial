@@ -21,3 +21,11 @@ Git LFS can be downloaded from the [git-lfs.github.com](https://git-lfs.github.c
 ### Install Github Desktop
 
 Github Desktop can be downloaded from the [desktop.github.com](https://desktop.github.com/) website.  Download the most current version of Github Desktop.
+
+## Setup Github Desktop
+
+### Login to Github Desktop
+
+Once Github Desktop is installed, launch the program. When it is first launched, a sign in screen will appear.  Sign into your github account.
+
+![github desktop launch screen](media/GithubDesktopSignIn.png)
